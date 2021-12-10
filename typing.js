@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',function(){
   // array with texts to type in typewriter
-  var dataText = '"Gain control of yourself."';
+  const dataText = document.querySelector("h1").textContent;
   
   // type one text in the typewriter
   // keeps calling itself until the text is finished
