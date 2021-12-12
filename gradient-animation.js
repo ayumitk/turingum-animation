@@ -6,7 +6,7 @@ class GradientAnimation {
     this.circlesNum = 15;
     this.minRadius = 400;
     this.maxRadius = 400;
-    this.speed = .05;
+    this.speed = .04;
 
     (window.onresize = () => {
       this.setCanvasSize();
