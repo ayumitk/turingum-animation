@@ -19,7 +19,7 @@ body {
   pointer-events: none;
   width: 100%;
   margin: auto;
-  max-width: 1280px;
+  max-width: 1180px;
 }
 
 #gradient-animation {
@@ -92,7 +92,7 @@ ul li a:hover {
 .heading-container {
   display: inline-block;
   min-height: 18rem;
-  margin: 2.5rem 0;
+  margin: 2rem 0;
 }
 h1 {
   filter: url(#distortionFilter);
